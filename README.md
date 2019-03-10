@@ -9,3 +9,7 @@ Setup:
 Install the project from gitHub
 - Step 2  
 CD into the project folder by means of a terminal and run the following command "npm install" to install dependencies.
+- Step 3  
+Run the following command "npm run serve" to start the project.
+- Step 4  
+In your browser, navigate to the following url"localhost:8080" to see the project.
